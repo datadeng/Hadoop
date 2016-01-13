@@ -37,6 +37,6 @@
 + [Hive](https://github.com/datadeng/Hive)：分布式、按列存储的数据仓库路？管理HDFS中数据，提供基于HQL的查询语言查询数据（运行时转化为MapReduce任务）
 + HBase
 + Zookeeper
-+ Sqoop:在数据库和HDFS之间高效传输的工具
++ Sqoop：在数据库和HDFS之间高效传输的工具
 
 # 关于Mapreduce
